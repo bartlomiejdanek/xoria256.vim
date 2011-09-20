@@ -68,10 +68,10 @@ hi  SpellRare        ctermfg=168  guifg=#df5f87 ctermbg=bg         guibg=bg     
 hi  SpellLocal       ctermfg=98   guifg=#875fdf ctermbg=bg         guibg=bg      cterm=underline gui=underline
 hi  StatusLine       ctermfg=149  guifg=#afdf5f ctermbg=235        guibg=#262626 cterm=bold      gui=bold
 hi  StatusLineNC     ctermfg=245  guifg=#8a8a8a ctermbg=235        guibg=#262625 cterm=none      gui=none
-hi  TabLine          ctermfg=249  guifg=#b2b2b2 ctermbg=bg         guifg=bg      cterm=none      gui=none
-hi  TabLineFill      ctermfg=249  guifg=#b2b2b2 ctermbg=bg         guifg=bg      cterm=none      gui=none
-hi  TabLineSel       ctermfg=182  guifg=#dfafdf ctermbg=235        guifg=#262626 cterm=none      gui=none
-"   FIXME
+hi  TabLine          ctermfg=249  guifg=#b2b2b2 ctermbg=bg         guibg=bg      cterm=none      gui=none
+hi  TabLineFill      ctermfg=249  guifg=#b2b2b2 ctermbg=bg         guibg=bg      cterm=none      gui=none
+hi  TabLineSel       ctermfg=182  guifg=#dfafdf ctermbg=235        guibg=#262626 cterm=none      gui=none
+
 hi  Title            ctermfg=225  guifg=#ffdfff
 hi  Todo             ctermfg=205  guifg=#ff5faf ctermbg=237        guibg=#3a3a3a
 hi  Underlined       ctermfg=39   guifg=#00afff cterm=underline    gui=underline
