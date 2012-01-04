@@ -52,21 +52,21 @@ hi  Folded           ctermfg=255  guifg=#eeeeee ctermbg=60         guibg=#5f5f87
 hi  IncSearch        ctermfg=0    guifg=#000000 ctermbg=223        guibg=#ffdfaf cterm=none      gui=none
 hi  LineNr           ctermfg=247  guifg=#9e9e9e ctermbg=233        guibg=#121212
 hi  MatchParen       ctermfg=188  guifg=#dfdfdf ctermbg=68         guibg=#5f87df cterm=bold      gui=bold
-"   TODO
-"   hi               MoreMsg
+hi  MoreMsg          ctermfg=150  guifg=#afdf5f                                  cterm=bold      gui=bold
+hi  Question         ctermfg=150  guifg=#afdf5f                                  cterm=bold      gui=bold
 hi  NonText          ctermfg=247  guifg=#9e9e9e ctermbg=233        guibg=#121212 cterm=bold      gui=bold
 hi  Pmenu            ctermfg=0    guifg=#000000 ctermbg=250        guibg=#bcbcbc
 hi  PmenuSel         ctermfg=255  guifg=#eeeeee ctermbg=243        guibg=#767676
 hi  PmenuSbar        ctermbg=252  guibg=#d0d0d0
 hi  PmenuThumb       ctermfg=243  guifg=#767676
-hi  Search           ctermfg=0    guifg=#000000 ctermbg=149        guibg=#afdf5f
+hi  Search           ctermfg=0    guifg=#000000 ctermbg=150        guibg=#afdf5f
 hi  SignColumn       ctermfg=248  guifg=#a8a8a8
 hi  SpecialKey       ctermfg=77   guifg=#5fdf5f
 hi  SpellBad         ctermfg=161  guifg=#df005f ctermbg=bg         guibg=bg      cterm=underline guisp=#df0000
 hi  SpellCap         ctermfg=189  guifg=#dfdfff ctermbg=bg         guibg=bg      cterm=underline gui=underline
 hi  SpellRare        ctermfg=168  guifg=#df5f87 ctermbg=bg         guibg=bg      cterm=underline gui=underline
 hi  SpellLocal       ctermfg=98   guifg=#875fdf ctermbg=bg         guibg=bg      cterm=underline gui=underline
-hi  StatusLine       ctermfg=149  guifg=#afdf5f ctermbg=235        guibg=#262626 cterm=bold      gui=bold
+hi  StatusLine       ctermfg=150  guifg=#afdf5f ctermbg=235        guibg=#262626 cterm=bold      gui=bold
 hi  StatusLineNC     ctermfg=245  guifg=#8a8a8a ctermbg=235        guibg=#262625 cterm=none      gui=none
 hi  TabLine          ctermfg=249  guifg=#b2b2b2 ctermbg=bg         guibg=bg      cterm=none      gui=none
 hi  TabLineFill      ctermfg=249  guifg=#b2b2b2 ctermbg=bg         guibg=bg      cterm=none      gui=none
@@ -79,9 +79,8 @@ hi  VertSplit        ctermfg=237  guifg=#3a3a3a ctermbg=237        guibg=#3a3a3a
 "   hi               VIsualNOS    ctermfg=24    guifg=#005f87      ctermbg=153   guibg=#afdfff   cterm=none    gui=none
 "   hi               Visual       ctermfg=24    guifg=#005f87      ctermbg=153   guibg=#afdfff
 hi  Visual           ctermfg=255  guifg=#eeeeee ctermbg=96         guibg=#875f87
-"   hi               Visual       ctermfg=255   guifg=#eeeeee      ctermbg=24    guibg=#005f87
 hi  VisualNOS        ctermfg=255  guifg=#eeeeee ctermbg=60         guibg=#5f5f87
-hi  WildMenu         ctermfg=0    guifg=#000000 ctermbg=150        guibg=#afdf87 cterm=bold      gui=bold
+hi  WildMenu         ctermfg=182  guifg=#dfdfdf ctermbg=bg         guibg=bg     cterm=bold      gui=bold
 
 hi  SignColumn       ctermfg=118  guifg=#87ff00 ctermbg=235        guibg=#262626
 ""  Syntax           highlighting {{{2
